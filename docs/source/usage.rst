@@ -58,3 +58,5 @@ Functions
 
 Objects
 *****
+:raw-html:`<br />`
+``Test ()``: Test function, nothing to see here!
