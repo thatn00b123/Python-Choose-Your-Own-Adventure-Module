@@ -20,8 +20,15 @@ gotendings:list: :List for storing endings the player has achived
 :raw-html:`<br />`
 :raw-html:`<br />`
 start:choice, text, or ending object: Starter choice, text or ending that will run when ``starter()`` is called.
+:raw-html:`<br />`
+:raw-html:`<br />`
 .. warning::
-  (SET THIS BEFORE STARTER FUNCTION OR GAME WILL BREAK!)
+	(SET THIS BEFORE STARTER FUNCTION OR GAME WILL BREAK!)
+    This is warning text. Use a warning for information the user must
+    understand to avoid negative consequences.
+
+    Warnings are formatted in the same way as notes. In the same way,
+    lines must be broken and indented under the warning tag.
 
 :raw-html:`<br />`
 
